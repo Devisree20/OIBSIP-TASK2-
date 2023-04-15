@@ -1,0 +1,63 @@
+
+        body{
+            display: flex;
+            height: 1550px;
+            justify-content: center;
+            align-items: center;
+            background-color: antiquewhite;
+            }
+        .container{
+                padding: 20px;
+                 width: 50%;
+                 height: 100%;
+                 min-width: 350px;
+                 background-color: white;
+                 border-radius: 60px;
+                 opacity: 0.8;
+                 box-shadow: 0px 0px 10px rgba(6, 5, 5, 0.5);
+               }
+                 
+        #second{
+            float: left;
+            border-radius: 60%;
+            margin: 5px;
+            padding: 5px;
+        }
+        #third{
+            font-size: 20px;
+            line-height: 30px;
+        }
+        #fourth{
+            float: right;
+            border-radius:  50%;
+            margin: 5px;
+            padding: 5px;
+        }
+        #fifth{
+            font-size: 20px;
+            line-height:30px ;
+            margin: 5px;
+
+        }
+        #sixth{
+            font-size: 20px;
+            line-height: 30px;
+            margin: 5px;
+        }
+        #seventh{
+            float: left;
+            border-radius: 40%;
+            margin: 10px;
+            padding: 5px;
+         }
+        #eighth{
+            font-size: 20px;
+            line-height: 35px;
+            margin: 5px;
+        }
+        #nine{
+            font-size: 20px;
+            line-height: 35px;
+            margin: 10px;
+        }
+        
